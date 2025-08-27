@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779316830326",
+    "project_id": "seguridadvehicular-11519",
+    "storage_bucket": "seguridadvehicular-11519.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779316830326:android:e30668fcfebdf96d18bf57",
+        "android_client_info": {
+          "package_name": "com.example.seguridad_vehicular"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQeS2x7HvCHZBNWpNt7gK6N0RYuw4J99M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
